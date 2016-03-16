@@ -21,6 +21,7 @@ webpack:webpack
 webpack:react
 webpack:css
 webpack:assets
+webpack:less
 
 accounts-ui
 accounts-password
